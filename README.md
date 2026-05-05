@@ -77,15 +77,15 @@ Imagini din demo:
 
 ## 7. Beneficii Potențiale
 
-* Costuri de Infrastructură Zero: Sistemul rulează integral pe dispozitivul utilizatorului (client-side), eliminând nevoia de servere scumpe cu GPU sau API-uri AI plătite.
+* **Costuri de Infrastructură Zero**: Sistemul rulează integral pe dispozitivul utilizatorului (client-side), eliminând nevoia de servere scumpe cu GPU sau API-uri AI plătite.
 
-* Confidențialitate Absolută (Privacy by Design): Datele și interogările nu părăsesc niciodată browserul. Este soluția ideală pentru documente sensibile (juridice, medicale) și conformitate GDPR.
+* **Confidențialitate Absolută (Privacy by Design)**: Datele și interogările nu părăsesc niciodată browserul. Este soluția ideală pentru documente sensibile (juridice, medicale) și conformitate GDPR.
 
-* Latență Ultra-Scăzută: Eliminarea timpului de rețea permite rezultate instantanee pe măsură ce utilizatorul tastează.
+* **Latență Ultra-Scăzută**: Eliminarea timpului de rețea permite rezultate instantanee pe măsură ce utilizatorul tastează.
 
-* Funcționare Offline: Aplicația rămâne funcțională fără conexiune la internet, fiind utilă pentru echipe de teren sau biblioteci digitale portabile.
+* **Funcționare Offline**: Aplicația rămâne funcțională fără conexiune la internet, fiind utilă pentru echipe de teren sau biblioteci digitale portabile.
 
-* Scalabilitate Infinită: Puterea de procesare este distribuită la nivelul fiecărui client, astfel încât sistemul nu poate fi suprasolicitat de un număr mare de utilizatori.
+* **Scalabilitate Infinită**: Puterea de procesare este distribuită la nivelul fiecărui client, astfel încât sistemul nu poate fi suprasolicitat de un număr mare de utilizatori.
 
 ## 8. Dezvoltări Viitoare
 Pentru a îmbunătăți și mai mult aplicația, planificăm următoarele direcții:
