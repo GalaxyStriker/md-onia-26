@@ -49,7 +49,7 @@ Utilizând abordarea noastră cu algoritmul MaxSim și reducerea dimensionalită
 Proiectul este împărțit în componente clare, folosind tehnologii specifice:
 
 ### A. Distilarea Modelului (`notebooks/model2vec_distill.ipynb`)
-Am folosit libraria `model2vec` pentru a obtine un model de *static embedding*.
+Am folosit libraria `model2vec[distill]` pentru a obtine un model de *static embedding*.
 
 ### B. Evaluarea Performanțelor (`notebooks/eval_hotpotqa_*.ipynb`)
 Aici am evaluat performanța modelului nostru folosind setul de date HotpotQA. Am comparat abordarea noastră cu abordări tradiționale, cum ar fi *Cosine Similarity*.
