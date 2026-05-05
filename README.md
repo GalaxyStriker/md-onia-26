@@ -1,8 +1,7 @@
-# Proiect: Static ColBERT
+# Static ColBERT
 
 ## 1. Scopul Proiectului
-Acest proiect rezolvă problema căutării rapide de informații în documente PDF de mari dimensiuni, chiar și pe dispozitive cu resurse limitate (cum ar fi direct în browser, folosind tehnologia WASM). Soluția noastră folosește un sistem avansat de căutare semantică, bazat pe un model de *static embedding* compact și pe formula de calcul a similarității MaxSim, o abordare eficientă inspirată din arhitectura ColBERT.
-*   **De ce este important:** Ajută la automatizarea extragerii de date, făcând cercetarea și studiul mult mai rapide și mai ușoare.
+Acest proiect rezolvă problema căutării rapide de informații în documente PDF de mari dimensiuni, chiar și pe dispozitive cu resurse limitate (cum ar fi direct în browser, folosind tehnologia WASM). Soluția noastră folosește un sistem de căutare semantică, bazat pe un model de *static embedding* compact și pe formula de calcul a similarității MaxSim, o abordare eficientă inspirată din arhitectura ColBERT. Acesta nu folosește rețele neuronale complexe la momentul interogării, ci se bazează pe reprezentări vectoriale pre-calculate, ceea ce reduce drastic latența și consumul de memorie.
 
 ## 2. Datele Utilizate
 *   **Surse de date:** Pentru a demonstra practic funcționalitatea aplicației, folosim textul **Constituției Republicii Moldova**. Pentru a evalua riguros performanța modelului, utilizăm setul de date standardizat HotpotQA.
