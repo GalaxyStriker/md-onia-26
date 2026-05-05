@@ -73,8 +73,8 @@ Un demo live este disponibil la https://adorable-raindrop-3417e6.netlify.app
 
 Imagini din demo:
 
-![demo](images/demo1.png)
-![demo](images/demo3.gif)
+![demo](docs/demo1.png)
+![demo](docs/demo3.gif)
 
 ## 7. Dezvoltări Viitoare (Next Steps)
 Pentru a îmbunătăți și mai mult aplicația, planificăm următoarele direcții:
