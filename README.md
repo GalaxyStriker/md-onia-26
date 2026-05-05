@@ -75,12 +75,25 @@ Imagini din demo:
 ![demo](docs/demo1.png)
 ![demo](docs/demo3.gif)
 
-## 7. Dezvoltări Viitoare (Next Steps)
+## 7. Beneficii Potențiale
+
+* Costuri de Infrastructură Zero: Sistemul rulează integral pe dispozitivul utilizatorului (client-side), eliminând nevoia de servere scumpe cu GPU sau API-uri AI plătite.
+
+* Confidențialitate Absolută (Privacy by Design): Datele și interogările nu părăsesc niciodată browserul. Este soluția ideală pentru documente sensibile (juridice, medicale) și conformitate GDPR.
+
+* Latență Ultra-Scăzută: Eliminarea timpului de rețea permite rezultate instantanee pe măsură ce utilizatorul tastează.
+
+* Funcționare Offline: Aplicația rămâne funcțională fără conexiune la internet, fiind utilă pentru echipe de teren sau biblioteci digitale portabile.
+
+* Scalabilitate Infinită: Puterea de procesare este distribuită la nivelul fiecărui client, astfel încât sistemul nu poate fi suprasolicitat de un număr mare de utilizatori.
+
+## 8. Dezvoltări Viitoare
 Pentru a îmbunătăți și mai mult aplicația, planificăm următoarele direcții:
 1.  **Eficiență sporită a memoriei:** Dorim să folosim un *tokenizer* (modulul care împarte textul în "cuvinte" pentru model) personalizat, cu un vocabular mai mic și adaptat limbii române, pentru a reduce și mai mult consumul de memorie (RAM) în timpul rulării.
 2.  **Modele și mai compacte:** Vom experimenta cu adăugarea unui strat suplimentar (*projection layer*) pentru a tăia din dimensiunile vectorilor generați, încercând să păstrăm precizia la fel de ridicată.
 
-## 8. Concluzii
+
+## 9. Concluzii
 Proiectul dovedește că, prin aplicarea tehnicilor de distilare a modelelor AI și folosind metode avansate de calcul al similarității (precum MaxSim), putem crea sisteme de căutare semantică extrem de rapide și eficiente. Aceste sisteme pot funcționa excelent chiar și pe calculatoare obișnuite sau telefoane mobile, oferind în același timp un nivel maxim de confidențialitate și respectând normele etice.
 
 ---
