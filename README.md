@@ -63,8 +63,10 @@ Interfața demonstrativă este găzduită online prin **Netlify** și permite c�
     *   `lucide-react` pentru iconografii.
 
 Pentru a rula local aplicația web demonstrativă:
-1.  Instalați pachetele necesare: `npm install`
-2.  Porniți serverul de testare: `npm run dev`
+1.  Distilați modelul local cu ajutorul notebook-ului model2vec_distill.ipynb
+2.  Copiați modelul obținut în mapa public/ și renumiți-l în custom_snowflake_onnx (calea obținută va fi public/custom_snowflake_onnx)
+3.  Instalați pachetele necesare: `npm install`
+4.  Porniți serverul de testare: `npm run dev`
 
 Un demo live este disponibil la https://adorable-raindrop-3417e6.netlify.app
 
